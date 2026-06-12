@@ -126,7 +126,7 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 
 ## 👩‍💻 Author
 
-**Anupriya Rajput**
+**Anupriya Kumari Singh**
 
 B.Tech Computer Science Engineering
 
