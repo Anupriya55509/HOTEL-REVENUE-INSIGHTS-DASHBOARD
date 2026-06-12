@@ -122,4 +122,16 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 - Implement customer segmentation analysis.
 - Enhance visualization with advanced Power BI features.
 
+---
 
+## 👩‍💻 Author
+
+**Anupriya Rajput**
+
+B.Tech Computer Science Engineering
+
+GitHub: https://github.com/Anupriya55509
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub.
