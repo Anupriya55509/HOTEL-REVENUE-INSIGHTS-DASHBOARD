@@ -77,7 +77,7 @@ The dashboard tracks the following KPIs:
 
 ## 📷 Dashboard Preview
 
-![Screenshot(800)](Screenshot(800).png)
+![dashboard1](dashboard1.png)
 
 ---
 
