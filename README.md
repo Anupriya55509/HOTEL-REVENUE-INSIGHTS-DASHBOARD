@@ -114,4 +114,12 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 - Supports strategic planning and forecasting.
 - Enhances overall hotel management efficiency.
 
+## 🔮 Future Scope
+
+- Add real-time data connectivity.
+- Develop predictive revenue forecasting models.
+- Create interactive executive-level dashboards.
+- Implement customer segmentation analysis.
+- Enhance visualization with advanced Power BI features.
+
 
