@@ -89,7 +89,7 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 ├── Dashboard.pbix
 ├── Dataset.xlsx
 ├── Screenshots/
-│   └── Dashboard.png
+│   └── dashboard1.png
 ├── README.md
 ```
 
