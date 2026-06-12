@@ -114,16 +114,4 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 - Supports strategic planning and forecasting.
 - Enhances overall hotel management efficiency.
 
----
 
-## 👩‍💻 Author
-
-**Anupriya Rajput**
-
-B.Tech (Computer Science Engineering)
-
-GitHub: https://github.com/Anupriya55509
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.# HOTEL-REVENUE-INSIGHTS-DASHBOARD
