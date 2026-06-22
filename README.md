@@ -8,6 +8,15 @@ The project helps hotel management monitor business performance, identify trends
 
 ---
 
+## 📊 Dataset Source
+
+The dataset used in this project was sourced from a publicly available **GitHub repository** and includes hotel booking, revenue, room category, hotel property, and date-related information. The dataset consists of multiple fact and dimension tables, enabling comprehensive analysis of hotel performance metrics such as Revenue, Occupancy Rate, ADR, RevPAR, Realisation Percentage, and DSRN.
+
+The data was utilized for data modeling, DAX calculations, KPI development, and dashboard creation in Power BI. Using a real-world hospitality dataset helped generate actionable business insights and evaluate revenue performance across hotel categories, booking platforms, cities, and room classes.
+
+---
+
+
 ## 🎯 Objectives
 
 - Analyze hotel revenue performance.
